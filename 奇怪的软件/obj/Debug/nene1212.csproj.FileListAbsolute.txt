@@ -1,0 +1,9 @@
+C:\Users\Kagiri\Documents\Visual Studio 2019\nene1212\bin\Debug\nene1212.exe.config
+C:\Users\Kagiri\Documents\Visual Studio 2019\nene1212\bin\Debug\nene1212.exe
+C:\Users\Kagiri\Documents\Visual Studio 2019\nene1212\bin\Debug\nene1212.pdb
+C:\Users\Kagiri\Documents\Visual Studio 2019\nene1212\obj\Debug\nene1212.Properties.Resources.resources
+C:\Users\Kagiri\Documents\Visual Studio 2019\nene1212\obj\Debug\nene1212.csproj.GenerateResource.cache
+C:\Users\Kagiri\Documents\Visual Studio 2019\nene1212\obj\Debug\nene1212.csproj.CoreCompileInputs.cache
+C:\Users\Kagiri\Documents\Visual Studio 2019\nene1212\obj\Debug\nene1212.exe
+C:\Users\Kagiri\Documents\Visual Studio 2019\nene1212\obj\Debug\nene1212.pdb
+C:\Users\Kagiri\Documents\Visual Studio 2019\nene1212\obj\Debug\nene1212.zuzu.resources
